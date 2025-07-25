@@ -1,0 +1,9 @@
+[project]
+name = "tf-idf-cls"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "jieba>=0.42.1",
+    "scikit-learn>=1.6.1",
+]

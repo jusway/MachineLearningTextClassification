@@ -1,0 +1,9 @@
+.venv/
+回收站/train.json
+回收站/val.json
+/train_corpus.pkl
+/train_label.pkl
+/val_corpus.pkl
+/val_label.pkl
+.idea/
+__pycache__/
